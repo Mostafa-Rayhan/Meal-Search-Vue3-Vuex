@@ -1,4 +1,4 @@
-import { createStore } from "vuex/types/index.js";
+import { createStore } from 'vuex';
 import state from './state'
 import * as actions from './actions'
 import * as getters from './getters'
